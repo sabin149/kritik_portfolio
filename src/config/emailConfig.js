@@ -1,0 +1,1 @@
+import { SMTPClient } from 'emailjs';
